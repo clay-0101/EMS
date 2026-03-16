@@ -7,7 +7,7 @@ const CreateTask = ({data}) => {
        <div className='h-screen w-full flex bg-[linear-gradient(180deg,hsla(237,96%,80%,1)_57%,hsla(0,0%,100%,1)_57%)]'>
             <div
                 className='h-full w-[40%] rounded-br-[5rem] p-5'
-                style={{ backgroundImage: "url('/adminPage.jpg')", backgroundSize: 'cover', backgroundPosition: 'center center' }}>
+                style={{ backgroundImage: "url('/adminpage.jpg')", backgroundSize: 'cover', backgroundPosition: 'center center' }}>
                 <Header data={data}/>
                 <div className='mt-40 text-[#16151cdf] w-3/4 '>
                     <h1 className='text-[2rem] leading-10'>!Welcome to,</h1>
