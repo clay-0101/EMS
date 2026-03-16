@@ -13,7 +13,7 @@ const Login = ({loginHandle}) => {
     setPassword('')
   }
   return (
-    <div className='h-screen w-full relative flex justify-center items-center ' style={{backgroundImage: "url('/public/LoginPage.svg')", backgroundSize:'cover'}}>
+    <div className='h-screen w-full relative flex justify-center items-center ' style={{backgroundImage: "url('/LoginPage.svg')", backgroundSize:'cover'}}>
         <div className='text-black h-auto  w-[90%] sm:w-[70%] md:w-[50%] lg:w-[30%] py-18 bg-white rounded-3xl  md:absolute top-1/6 left-2/12 flex flex-col justify-center gap-5 items-center'>
 
         <h1 className='font-extrabold text-3xl text-center'>Employee / Admin Login</h1>
