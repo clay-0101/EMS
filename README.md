@@ -1,3 +1,6 @@
+Admin Email - admin@company.com
+passWord - 123
+
 # 👨‍💼 Employee Management System (EMS)
 
 A **React-based Employee Management System** to **create, assign, and track tasks** for employees.  
